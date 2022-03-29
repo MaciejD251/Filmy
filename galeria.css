@@ -4,6 +4,9 @@ body {
     background-color: #99fdf0;    
 }
 
+.heading{
+position: center;
+}
 /* Gallery */
 
 .gallery {
