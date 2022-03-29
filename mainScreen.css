@@ -1,5 +1,5 @@
 body {
-    background-color: #e7cf9c;
+    background-color: #99fdf0;
 }
 
 #defaultBodyPara {
@@ -8,7 +8,7 @@ body {
 }
 
 .welcomeMessage {
-    background-color: khaki;
+    background-color: rgb(144, 146, 247);
 }
 
 .heading {
@@ -31,16 +31,16 @@ body {
 }
 
 .highlighter {
-    background-color: #4EFFEE;
+    background-color: #99fdf0;
 }
 
 #aboutBody {
     text-align: center;
-    background-color: bisque
+    background-color: #00b7ff
 }
 
 .rollNumberInAbout {
-    background-color: #DDAF94;
+    background-color: #00b7ff;
     font-weight: bold;
 }
 
@@ -49,6 +49,6 @@ body {
 }
 
 .hlink:hover {
-    color: bisque;
+    color: #00b7ff;
     background-color: black;
 }

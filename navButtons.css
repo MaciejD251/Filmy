@@ -3,13 +3,13 @@ body {
 }
 
 .btn:hover {
-    background-color: blanchedalmond;
+    background-color: aliceblue;
     color: #38312c;
 }
 
 .btn {
     width: 100%;
     height: 100%;
-    background-color: #38312c;
+    background-color: #000000;
     color: aliceblue;
 }
